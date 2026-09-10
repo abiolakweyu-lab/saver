@@ -1,0 +1,8 @@
+[
+  {
+    "id": "custom_loop_01",
+    "name": "My Custom Video Loop",
+    "src": "https://github.com/abiolakweyu-lab/saver/releases/download/v1.0/fire.mp4",
+    "accessibilityLabel": "Custom Loop"
+  }
+]
